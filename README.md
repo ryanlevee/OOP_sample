@@ -1,2 +1,2 @@
 # OOP_sample.py
-Sample code I wrote to demonstrate Object-Oriented Programming, written in Python.
+Sample code I wrote in python to demonstrate Object-Oriented Programming.
